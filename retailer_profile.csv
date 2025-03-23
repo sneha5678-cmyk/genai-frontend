@@ -1,0 +1,201 @@
+Retailer_ID,Retailer_Name,City,State,Area_Type,Store_Type,Store_Size_sqft,Years_in_Business,Total_SKUs_Stocked,Top_Brand_Preference,Avg_Monthly_Sales_Units,Avg_Monthly_Revenue,Restocking_Frequency_per_Month,Customer_Basket_Size
+282d774e-2392-44a1-803e-79fbe699fac3,Brady LLC,Lake Max,Alabama,Semi-Urban,Kirana,348,20,286,Group,5103,282326.42,8,20.98
+c1265469-8cd5-4cd0-9b05-4477dfa125b9,Brown-Wood,South Lindachester,Indiana,Urban,Wholesaler,382,8,454,LLC,9384,296359.94,8,4.26
+44346c36-c90c-4b1e-b0d3-0be465060586,"Gillespie, Baird and Roberson",Scottbury,Delaware,Semi-Urban,Supermarket,942,24,308,PLC,9096,426514.51,8,21.54
+bbc6b45a-bb49-4ea9-a02c-8b8000db2c8f,Smith-Hanson,New Patrick,Wyoming,Urban,Supermarket,252,12,392,Ltd,3070,302645.5,1,26.55
+12bd1133-beb0-4d17-a09f-6dca07bd68a5,Sanders-Ray,North Nancybury,North Dakota,Urban,Kirana,734,46,330,and Sons,6605,54247.38,3,46.65
+91589386-6483-4d5e-9b70-6e19b12eec24,Ritter and Sons,North Lauratown,Connecticut,Semi-Urban,Wholesaler,496,24,166,Inc,4160,186909.74,5,41.57
+a671cb5f-22a9-4c45-aae7-d170a411b5b4,Sherman Ltd,Collinsstad,North Dakota,Urban,Kirana,1104,46,280,Group,7202,253556.64,3,5.8
+1535c95d-5ba4-4e98-8931-c1fe8fe8e7c2,Hancock-Clark,Ortizchester,Louisiana,Urban,Convenience Store,454,45,225,PLC,9568,383915.49,5,12.37
+dc2722a5-cfde-42bd-b8a8-80fdb8fff035,Smith PLC,Margaretfort,Colorado,Rural,Supermarket,496,21,419,PLC,2955,284703.07,10,16.45
+cbdcd236-4762-498d-9a55-cf48b10a1169,"Cooper, Carpenter and Price",Lowemouth,South Dakota,Rural,Convenience Store,678,2,166,Group,9054,252005.08,9,10.33
+581d5ecb-9c63-43b5-a025-4472d5e87b5f,Brooks-Robinson,Christianfort,Maine,Semi-Urban,Convenience Store,380,24,416,Group,4375,50845.5,1,11.91
+52832864-bb73-4d9a-b244-7c11295746e3,Navarro and Sons,Tonyaburgh,Kansas,Semi-Urban,Supermarket,220,23,456,LLC,2597,312085.82,9,29.01
+1db88ac4-88d8-45a5-bf08-0539b5663a81,Banks Inc,Ericaland,Wyoming,Semi-Urban,Wholesaler,1412,9,396,PLC,4635,282294.78,6,15.02
+ba92a719-cc44-48f6-89c4-3b2dfc0bd1f5,Moore-Mitchell,Cohenstad,Florida,Semi-Urban,Supermarket,1857,22,483,Ltd,4872,366840.93,2,10.13
+f8e43be2-5d8c-4ef9-84d4-d8dcc1b5a5cc,"Bell, Davis and Hall",New Troy,Missouri,Semi-Urban,Wholesaler,740,39,314,and Sons,1263,459959.23,8,18.98
+dbb1f1f7-898e-4675-bc98-82248c40b427,"Collins, Hester and Rivera",North Heatherton,Alaska,Urban,Convenience Store,1292,17,213,Group,1641,442138.03,1,31.7
+250d414c-73d5-49af-b608-5ad86993bbc9,Parker-Patrick,West Micheal,Nevada,Urban,Convenience Store,125,18,158,Ltd,8143,345830.68,8,48.38
+45bc8b71-c244-48ed-8e33-5ff6ecb90753,Jones-Miller,New Kellimouth,Wyoming,Rural,Kirana,1927,8,54,PLC,623,395948.41,10,27.12
+fd5b1e0d-0261-4819-b4c7-52af7e5e4c76,Myers-Kennedy,Garrettshire,Iowa,Rural,Kirana,613,46,184,PLC,4262,273904.99,10,18.54
+06bb96f0-2fa6-4bd5-8227-2b7af47a54ef,Gilmore-Russell,East Gregory,Idaho,Semi-Urban,Wholesaler,586,44,252,Group,7841,256715.15,4,26.52
+ae2098f9-43cc-4fa9-a406-695205e6bda2,Shelton-Murray,Jacobsfort,Ohio,Urban,Supermarket,826,37,348,Ltd,7818,40817.66,10,15.08
+f43a24ff-2216-46ce-a0bd-b45ef239ce51,Edwards and Sons,Owensmouth,Alabama,Semi-Urban,Supermarket,428,50,354,Inc,1034,359273.75,10,46.46
+76784791-4d4d-4bd7-b125-e73e40c44e6b,"Robinson, Salazar and Yoder",Wilsonville,New York,Urban,Supermarket,602,33,86,LLC,569,143177.14,2,8.41
+d6fea2b6-6190-49af-9aed-34ee5f7db403,Perez Inc,Lake Andrew,Alabama,Rural,Wholesaler,1563,22,390,Ltd,9606,200897.53,4,9.79
+3266e4ff-268a-47b6-8478-761bbee4b44e,Hall-Park,West Molly,Connecticut,Semi-Urban,Supermarket,1842,5,325,Group,7155,471588.93,8,31.25
+9d62dd7e-b5de-46c4-a36a-655b3b61b950,Carter-Gardner,Bridgesshire,Ohio,Rural,Supermarket,1903,23,413,Group,6656,254146.42,2,41.56
+6176c678-d643-407f-a8bc-36633da7d46b,Hendricks-Thompson,Lake Ryanville,Mississippi,Semi-Urban,Convenience Store,1330,49,320,LLC,9844,318230.79,3,24.0
+6c5daabc-094a-465d-8e19-c25e00dbb7dd,Wilson Ltd,Randallland,Ohio,Urban,Wholesaler,935,13,177,and Sons,6319,245150.98,1,2.08
+7a66f46d-ba0f-4a41-aec3-bc09fd286696,Kennedy-Lindsey,North Laura,Idaho,Semi-Urban,Convenience Store,399,20,469,PLC,9039,238521.61,4,39.62
+8a48f87a-3c23-459e-85c0-ccfa7f93c095,"Alvarez, Newton and Lee",New Timothymouth,Rhode Island,Urban,Supermarket,1450,20,224,Ltd,9410,59891.23,5,7.73
+43800df1-3923-4ada-924f-a7190d84234e,Perry and Sons,Curtismouth,Tennessee,Rural,Kirana,302,13,337,Inc,9031,396310.59,2,18.0
+add44399-7ea5-49ed-96ef-fe6589ec4379,Bell-Wang,Carmenhaven,Maryland,Urban,Convenience Store,756,13,96,Ltd,4155,327929.98,6,13.66
+1500ca22-d3a4-4bff-be7f-41090debb8cd,Dodson-Johnson,Seanburgh,Connecticut,Semi-Urban,Kirana,552,6,474,PLC,761,85748.07,5,16.47
+8385e2b4-da82-47a2-a206-4aff043a0201,Gutierrez-Hansen,New Jenniferstad,South Dakota,Semi-Urban,Supermarket,263,28,53,Inc,770,219519.17,3,46.37
+4b9beb46-fb94-4ff4-a0ac-85458bece587,"Kline, Anderson and Rich",Davidhaven,Oklahoma,Rural,Supermarket,432,46,393,PLC,9422,33372.69,5,34.59
+961f6659-686c-4675-bdee-b429d57f61b9,"Hampton, Rogers and Williamson",Port Erin,West Virginia,Rural,Kirana,1282,33,352,Inc,2293,444743.74,7,26.52
+02cea95f-13c4-4f67-ac8e-c5b83ccbb6d8,King-Morgan,Alexmouth,Nebraska,Urban,Convenience Store,1007,29,238,Group,4726,391246.65,6,41.55
+59893932-de38-49d2-ac0f-7bc54f1eef21,Smith-Brown,New Spencer,Virginia,Rural,Supermarket,232,35,378,Ltd,5212,103416.35,1,16.57
+3d5f94e7-10bb-4d3c-a0e2-2d7173645dc7,Anderson-Blair,Lake Teresa,West Virginia,Semi-Urban,Supermarket,232,21,72,Group,2043,164085.2,9,22.38
+5ce71557-4ac0-4437-b3de-26d4ac5bb632,Yang-Mcclure,Ronaldchester,Kentucky,Urban,Supermarket,1257,18,321,and Sons,3879,96135.03,3,15.15
+c48f5769-135b-4209-b975-a7ecac5b83b8,"Allen, Cross and Thomas",New Katiemouth,Mississippi,Urban,Wholesaler,1014,42,91,Group,9131,453896.82,5,10.82
+6a0d5db9-032b-4d92-b8a5-705937107ac8,"Mccann, Porter and Schmidt",Port Jenniferberg,South Carolina,Urban,Wholesaler,941,26,294,PLC,7859,97761.16,7,41.48
+beb56e78-e821-4bc4-a4e8-6262d7dca047,Peterson Ltd,South Derek,Delaware,Rural,Convenience Store,705,44,484,Ltd,8442,130339.31,8,23.1
+3b068f98-90f4-4db0-8b32-57a2e1b5bb47,Wilson and Sons,Patricktown,Kentucky,Rural,Convenience Store,618,33,314,LLC,8949,496586.66,2,26.86
+2dc597c9-09b0-4adf-8ef8-7629a4323927,"Mueller, Johnson and Reilly",Savannahbury,Missouri,Rural,Convenience Store,801,11,361,LLC,3411,151710.85,5,33.0
+aa5b1cfe-695d-40c3-9cfa-a5f0c5f3b78f,"Boone, Haley and Foley",Fieldstown,Alabama,Semi-Urban,Convenience Store,1228,15,474,Ltd,1677,215119.45,3,12.51
+835c45cc-b356-4046-bf3c-e0aae0051e92,Harper-Thompson,Lake Stephaniefort,Michigan,Urban,Convenience Store,182,19,371,Inc,3812,295390.96,6,36.25
+6209a87e-a609-455a-9f2f-6b4515c1fa0c,Ross and Sons,Port Mary,New Mexico,Rural,Kirana,361,31,408,PLC,2065,66355.22,10,4.51
+8e859c0a-7589-40dd-8e9a-707956272f1c,Holmes-Hunt,Lake Lisahaven,Texas,Urban,Convenience Store,884,13,181,Inc,5877,326524.98,4,23.01
+a4589e1f-3965-4a66-aecd-4385477e1659,Green-Wright,Theresachester,West Virginia,Rural,Kirana,528,18,441,Group,8415,253849.68,8,7.61
+254ebd67-7f42-4d11-ad81-df68a9eeb168,Hardin LLC,New Michaelborough,Rhode Island,Rural,Supermarket,751,15,127,Ltd,5924,45197.7,8,36.56
+6e35e526-10c0-4025-a39a-f8edb302ac58,Tran Ltd,Melissaberg,Alaska,Semi-Urban,Wholesaler,1919,13,437,PLC,5466,477074.59,8,12.78
+55136861-cfac-443d-938a-2e89460c3861,Green PLC,Stoneberg,Maine,Semi-Urban,Supermarket,1133,6,319,and Sons,621,177630.28,9,2.62
+9f48f906-8992-4640-b745-774e742c0d18,Goodman and Sons,Port Mollymouth,South Dakota,Urban,Wholesaler,215,24,443,Inc,2738,275924.26,3,27.68
+eb37f999-69a5-4128-921e-ec0ed9814a7f,"Bridges, Johnson and Peterson",Montgomeryhaven,Mississippi,Rural,Wholesaler,1927,48,215,LLC,6447,228502.81,6,10.31
+733bd69a-adf1-46ae-acf9-053241c00d83,"Flynn, Thompson and Carlson",East Danielleberg,Nebraska,Semi-Urban,Wholesaler,334,38,175,Group,4704,164206.37,4,17.24
+3dc9ddab-8711-465b-bcfb-e0f8ccfdd9e0,Reynolds Inc,North Michele,Nevada,Semi-Urban,Kirana,929,34,365,LLC,1076,165058.17,9,31.7
+e8504e35-e057-49c1-8815-1c386e0a780e,Ferrell-English,Lestad,Utah,Semi-Urban,Convenience Store,1553,45,55,Ltd,2448,308294.81,10,5.42
+0306554c-dd4e-401b-b31e-655cffe1a475,"Hale, Erickson and Ferguson",South Miguelland,Connecticut,Semi-Urban,Convenience Store,1058,16,366,Ltd,1415,209701.48,4,33.13
+2a0d3552-dd0c-498a-b70c-0514391f6300,Green-Gaines,Murphyberg,Louisiana,Rural,Convenience Store,129,28,402,Group,3329,377510.3,2,1.05
+930c6eaa-ccb6-4867-9c71-ea19e63cb967,Ryan-Parker,Stephaniehaven,South Dakota,Urban,Convenience Store,114,43,495,and Sons,2126,158851.86,10,29.88
+f3546355-4fbf-44ca-9e66-7789b5f717ed,Jimenez-Mosley,Mistyfort,Indiana,Semi-Urban,Wholesaler,814,13,90,PLC,8333,79036.7,3,14.74
+38664fd2-6693-4296-b052-22d7f36fdb13,Davis-Hernandez,Vasquezside,Nevada,Rural,Wholesaler,601,11,416,Ltd,3471,66558.98,3,36.41
+9d4ccc8f-4917-4e14-af5f-61b54f1b0a32,Henderson LLC,Christopherview,Hawaii,Rural,Convenience Store,490,15,496,PLC,7269,268739.45,6,38.65
+ff4efb47-1513-4bfc-a698-5f7c242ff6be,"Baker, Scott and Wood",Andersonside,Washington,Rural,Supermarket,681,36,56,Group,3627,462728.41,2,9.11
+dbcf0810-2a97-499c-901d-907e8e577dca,"Cantrell, Smith and Crawford",South Megan,Nebraska,Semi-Urban,Wholesaler,1516,9,373,Ltd,3571,279261.94,6,10.58
+95a6874f-ac75-4cb1-aa8f-33f4de530048,Hughes Ltd,East Ellen,Tennessee,Semi-Urban,Kirana,1731,10,67,LLC,5274,120616.04,2,44.23
+4e2446b8-580d-478d-964e-12f24f310410,"Sanchez, Jackson and Murillo",Christianburgh,Pennsylvania,Urban,Wholesaler,1028,9,449,and Sons,347,69181.98,5,7.75
+88775eff-53d0-4bf2-af46-630202589c06,Rodriguez-Harris,New Elizabeth,Massachusetts,Rural,Convenience Store,183,16,337,Ltd,9370,445166.59,10,8.55
+f698c5e3-97d6-4dea-8990-51977f97b445,"Peterson, Murphy and Duncan",Jamesfurt,Minnesota,Semi-Urban,Kirana,448,36,441,PLC,2662,53488.45,1,20.04
+ba72d7fd-f61e-4c62-b20b-8e190119dcc3,Hayes PLC,Mariamouth,New Mexico,Urban,Supermarket,1081,25,424,PLC,6842,366511.92,4,38.92
+885b7d5b-e4a7-48c0-b293-a4c6151fd2d5,"Cole, Romero and Robertson",Port Normanland,Missouri,Semi-Urban,Kirana,463,20,230,Group,6992,257899.13,7,22.5
+57c2d3c8-5fd3-4f7a-897e-debc38f00e74,Stout Inc,Brendaton,South Carolina,Semi-Urban,Kirana,461,48,154,LLC,9445,133736.06,5,7.63
+d5ad30a9-2b9c-42ab-978d-12a540aecacd,Hughes PLC,North Katelyn,Massachusetts,Rural,Kirana,809,37,344,Ltd,7763,246918.12,3,44.94
+7ac8e4e3-df8e-4038-8140-c3539b382091,Dawson and Sons,Port Katherine,Louisiana,Semi-Urban,Wholesaler,186,22,203,Inc,4771,354759.13,9,28.67
+809bb469-307f-4088-bc29-ba438d65c1ac,Ramirez LLC,South Richardberg,Connecticut,Urban,Supermarket,139,41,54,Inc,8999,182172.89,10,43.23
+d6f9d7fc-33e7-4f5c-98f8-b20717c4f7d1,Diaz LLC,Port Jennifermouth,Oklahoma,Urban,Supermarket,337,15,215,LLC,2460,368278.03,1,39.12
+8844e075-b938-4c04-b526-536d275675b6,Davis Inc,New Toddstad,Iowa,Rural,Supermarket,797,23,338,PLC,1792,230869.92,2,34.11
+41883a73-74de-4b9b-b934-01ae17f62aee,May-Levine,North Michaelview,Washington,Urban,Convenience Store,187,31,154,Ltd,214,255161.72,3,18.53
+b2660cfd-a3a1-4993-b2e3-89be1d701ca1,Sanchez-Lewis,Michaelside,South Carolina,Urban,Convenience Store,313,33,351,and Sons,3882,465307.36,3,15.94
+7f05b26e-6ead-4628-84ac-8286c9ad080b,Davis-Nielsen,Wrightfort,Maryland,Rural,Convenience Store,876,15,293,Group,5420,246469.09,7,24.34
+d78c39e2-ba07-47ae-8f7d-3dcfa5611022,"Lawson, Evans and Parsons",Wardton,Delaware,Urban,Convenience Store,630,2,155,LLC,4638,390290.89,5,19.17
+40102ae4-614f-41f1-8b65-b0d1ce911135,Gordon and Sons,West Davidstad,Arkansas,Rural,Kirana,553,40,253,PLC,4406,40329.76,8,25.32
+1c695d4f-0ce8-4857-9d43-7ef0c562bd25,Smith-Turner,Autumnshire,New Mexico,Rural,Convenience Store,1686,46,207,Inc,2996,349174.87,10,3.66
+7201d633-c696-4845-997f-fb2a50427fcd,Riggs-Hansen,East Shellychester,Virginia,Rural,Supermarket,1863,19,96,Group,5017,315046.79,5,39.54
+0120115a-1901-4541-85ce-001d65919ec7,Miller-Wilson,Johnsonstad,Oregon,Semi-Urban,Supermarket,1684,17,268,PLC,1470,133313.72,7,6.82
+8e3b3271-b412-4159-9d43-c9792fc19c86,"Conley, Solis and Williams",Tinamouth,Michigan,Urban,Supermarket,408,28,155,Inc,2007,469860.66,10,10.83
+023679bf-278f-4c6a-9f6f-9e2f89637575,Davis and Sons,North Kevin,Oregon,Urban,Kirana,506,25,326,Group,3601,192389.75,6,9.53
+404e6b27-5b3c-4c49-abae-facfb9b1fce9,"Mckinney, Miller and Wade",Shannonview,Wisconsin,Rural,Wholesaler,1545,30,434,PLC,5619,360466.9,6,7.93
+d39f9bf8-9007-448d-96dd-be906f3875c4,Cruz Group,Davidborough,New Jersey,Urban,Kirana,892,37,326,LLC,9488,228317.58,5,12.06
+a654d845-b1a0-44a2-a179-f5a57f9ca90a,Miller-Velez,Angelabury,Texas,Rural,Supermarket,427,47,203,LLC,9869,361888.05,10,36.71
+e48bfe45-a834-4e67-b97c-fa679b7da1e1,Joseph LLC,South Stephenfurt,North Carolina,Urban,Wholesaler,1621,4,308,Group,2180,177088.49,5,24.24
+d250e2b7-7f61-4d49-94ff-57881c2d9007,Reynolds Group,Davisbury,Florida,Urban,Wholesaler,1171,13,474,and Sons,9552,124176.62,6,37.69
+f36cd908-b8df-4c84-aaf7-c328ebc8a0b7,"Rivera, Rice and Bryan",West Christopher,Illinois,Semi-Urban,Convenience Store,1527,6,419,LLC,6588,474651.88,4,9.75
+46c0df6b-c4b0-4dd8-b77c-dffe39c8c510,"Sullivan, Martin and Bowman",New Jeffrey,Rhode Island,Rural,Wholesaler,819,49,54,PLC,4733,355256.55,9,37.78
+31d604a8-8fc6-40db-bb89-8bb0711ea6cb,Davis-Mcfarland,New Rebecca,Indiana,Rural,Wholesaler,507,20,249,PLC,4829,130099.33,8,40.21
+f28f46e2-b7d7-4cc3-b670-384aa6b84460,"Smith, Johnson and Carey",Port Jacob,Nebraska,Rural,Convenience Store,1960,35,493,Inc,6385,84556.13,7,19.58
+af4afb2a-b7bf-445e-b506-8618cc0b8164,Hill-King,North Robert,Montana,Urban,Kirana,1390,15,270,LLC,4734,207752.52,8,48.28
+6a7f31e2-80e6-485b-9299-f91a5bab8923,Cain-Wise,Port Pamelabury,Arizona,Semi-Urban,Supermarket,1976,46,495,Group,3858,484889.57,2,22.56
+eb6cac99-c015-418d-bdf0-2c794ac9b422,Chapman-Taylor,Lake Noah,Florida,Rural,Supermarket,1315,46,301,and Sons,992,183664.71,8,2.03
+8442ebc2-6589-4989-b183-1b86a82e9f0e,Clay-Clark,North Jenniferside,Washington,Urban,Convenience Store,1586,31,234,LLC,7428,45578.25,7,33.54
+e5fc5baa-d1ac-4c5e-b7db-bdc783b3ff60,Mcguire Inc,Johnstonmouth,West Virginia,Urban,Wholesaler,1532,26,110,PLC,7024,464804.74,5,46.92
+d603585f-4c62-47ea-8057-1aa9405e6351,Phillips Inc,Lake Miranda,New Hampshire,Urban,Kirana,1064,6,267,PLC,338,40369.79,9,40.18
+062db375-2bb6-496f-b392-a7cfa76578f2,Hayes-Moore,Michaelbury,Montana,Rural,Convenience Store,331,30,306,PLC,2624,278428.84,9,25.67
+6995df26-9738-4e96-90ef-49a758af06d7,"Butler, Leblanc and Roberts",Henrybury,Rhode Island,Rural,Kirana,1932,22,169,Ltd,7328,143364.63,2,36.62
+648ffa15-4448-4e72-a58c-4b03b96f3cd3,Rose-Jensen,Kanemouth,Vermont,Semi-Urban,Kirana,889,21,348,and Sons,1661,323086.3,4,37.56
+5eaed539-8773-4674-8168-c048fdca990b,Mullen Group,Lake Kennethmouth,Hawaii,Semi-Urban,Convenience Store,1830,36,54,Group,8831,460168.88,9,43.99
+b419299f-961f-4a29-bcd3-7909f455af14,"Lynch, Ross and Gray",Mcbrideland,Arizona,Rural,Supermarket,1441,48,169,PLC,2775,169249.11,6,48.49
+d881e01f-09fb-4696-ad50-a11f6121db7b,Clark-Powell,Garzamouth,Georgia,Semi-Urban,Convenience Store,1177,19,247,Inc,3349,283067.87,2,19.33
+25b794f1-a69d-49b5-94db-92baf631e1bd,"Lawrence, Cortez and Wood",North Taylormouth,Hawaii,Urban,Convenience Store,1031,5,324,PLC,2528,29934.49,2,26.36
+ae4385c2-352b-4cce-89bc-066bbf28b302,Turner-Taylor,North Carl,Michigan,Semi-Urban,Convenience Store,1337,30,99,Ltd,5965,423192.96,6,38.87
+3fc98865-12b0-42ae-b3f8-e12b90bdf2ba,Flores-White,North Sandra,Rhode Island,Urban,Wholesaler,1896,42,464,LLC,6241,124112.79,2,33.2
+38f97c36-edd9-4650-8b96-d6fd1fc8f932,Preston and Sons,Lake Paulbury,Washington,Urban,Convenience Store,1646,6,57,Ltd,5215,175941.05,3,12.08
+1ad0c9e7-175f-477d-a998-9b4931bba44b,Higgins and Sons,Owensmouth,Delaware,Semi-Urban,Kirana,1702,27,322,and Sons,2518,456251.09,2,18.02
+07c2149d-b39e-4f10-8a49-92eb4f669627,"Price, Joseph and Lane",New Jodiberg,Illinois,Urban,Convenience Store,830,48,140,and Sons,7482,247272.9,1,47.12
+cc1024c5-9b82-4a0c-aca5-6e6d5d5dcd19,Reilly PLC,Durhamville,North Carolina,Semi-Urban,Kirana,1989,44,80,Group,8884,429758.96,3,33.2
+65f88a8d-0169-4344-b207-124240db29e9,Shelton PLC,South Kristinville,Colorado,Rural,Kirana,1105,36,227,Inc,1195,119457.95,2,26.41
+82b30bc0-95c4-4ddc-ae81-efbd648b4f3e,Bell Ltd,Ariasport,Oklahoma,Urban,Kirana,1549,44,408,PLC,9602,47983.63,5,14.08
+3a4a3487-43f7-47d6-8701-96dc5cd6549e,Wood-Hardy,East Jon,North Carolina,Rural,Supermarket,1105,22,332,and Sons,2189,224704.12,4,35.28
+5299696d-0468-421b-9979-9c0cf38c7148,"Hill, Leon and Lee",Port Jorge,Colorado,Urban,Supermarket,1022,18,118,Ltd,5029,147482.09,10,6.88
+aabb7b51-779b-4527-99d9-6f6d6e6b77d4,Johnson-Reynolds,Port Jamesview,Alaska,Rural,Kirana,1220,43,323,PLC,6532,240985.68,2,28.5
+4612dbc5-98e3-47ba-acff-6390b49b2d3d,"Estrada, Barr and Bridges",Rowlandchester,Oregon,Rural,Supermarket,1047,13,113,PLC,8651,94511.75,9,32.4
+67269e86-d8e7-47f2-9add-1d8707115d30,Jackson-Rodriguez,North Lacey,Mississippi,Urban,Wholesaler,390,5,431,and Sons,8327,150041.01,8,23.79
+efcfc393-746b-4e86-bed4-7dc78fdfc092,"Burns, Alvarez and Braun",Byrdstad,Utah,Semi-Urban,Supermarket,580,9,316,Ltd,342,169482.34,6,30.95
+334efe20-d479-432b-a281-86df73dab252,Patterson LLC,New Lisaton,Idaho,Semi-Urban,Convenience Store,850,11,128,LLC,8795,413664.44,2,24.35
+697a22ef-8ba0-4ca3-b94e-953eebc179a5,"Green, Yoder and Willis",New Destinytown,Florida,Urban,Kirana,1080,6,498,Group,5624,90746.36,3,47.38
+df146f55-0871-4f12-8a82-5d93b778e6ec,Collins-Santos,Annafurt,West Virginia,Semi-Urban,Kirana,1761,46,371,LLC,9745,73395.26,1,2.64
+5a6633ff-7aed-42d4-9f42-a4476a404bea,"Holloway, Robinson and Ross",Williamsmouth,Connecticut,Semi-Urban,Kirana,1677,47,114,PLC,1762,141849.87,8,22.27
+b753b9cd-17f5-4b30-91f0-895bcac7c163,"Kaufman, Williams and Cortez",North Kennethtown,Kansas,Rural,Kirana,481,32,430,and Sons,3621,435521.09,6,29.89
+0ee5ecac-c43b-4789-af29-ceb343dd54f7,Collins and Sons,Villanuevaville,Oregon,Semi-Urban,Kirana,291,17,82,and Sons,6117,251773.36,2,19.82
+678d9140-89d0-4f26-beba-3eee8647930f,Hayes Inc,Lake Carla,Wyoming,Rural,Kirana,1369,12,227,LLC,4498,166403.4,2,46.75
+e2551b2c-7bb1-493c-9602-bee625957a51,"Brown, Reed and Dyer",Annettechester,California,Rural,Convenience Store,980,3,478,LLC,6890,391426.08,4,35.24
+7f657f85-384b-4f23-a4a5-558df94efb0f,Harrison-Ward,West Loriview,Georgia,Rural,Convenience Store,236,6,264,LLC,7427,149067.01,3,5.42
+c2613a98-e591-4410-827f-50732c1e9e8a,Goodwin-English,Susanborough,Wisconsin,Urban,Convenience Store,1211,4,347,and Sons,1729,173520.87,5,34.89
+fbe39548-951c-4c2d-ad70-b0a727572aef,Ortiz Group,Gomezfort,Michigan,Rural,Supermarket,624,11,103,Ltd,2877,109620.53,9,7.14
+23b6b5d5-7c0c-4fd0-87cd-63dbd5ddb63a,Banks-Fitzgerald,Meyerside,New York,Semi-Urban,Wholesaler,849,27,80,Ltd,7022,103617.22,5,4.92
+2fc5cc9a-14ae-4797-bafc-0e6bac939740,Baker-Johnson,Port Matthew,California,Semi-Urban,Kirana,195,36,453,and Sons,6660,386747.23,3,7.25
+065876f4-7c4b-4cef-8037-92f421cab6c3,Morrison-Harris,North Jordan,Washington,Semi-Urban,Wholesaler,1607,4,269,and Sons,8364,177324.97,10,36.2
+62faad25-ac6a-4e84-a059-4fde3e8fc5b4,Tanner-Allen,South Evelyn,Utah,Urban,Kirana,710,11,71,Ltd,8751,406919.89,10,40.89
+34e17066-94aa-425b-83c6-69bfc701200a,"Wade, Scott and Hughes",Lewisstad,Arkansas,Rural,Supermarket,1753,36,418,LLC,9387,268682.84,1,16.41
+9d85757b-a7e3-4bd7-b6da-e352b8936cf5,Richardson Group,South Erikaborough,North Dakota,Rural,Supermarket,1283,17,344,Ltd,7887,288287.41,7,35.46
+577f630a-6f4d-4cf8-8cfc-ef9ce73970f2,"Hurley, Brown and Harris",New Evan,Missouri,Semi-Urban,Supermarket,534,24,55,Inc,2217,185662.15,6,45.93
+5bc63d0c-f60d-4b88-afcc-9f4e26415b6e,Cook-Paul,Jonesmouth,Kansas,Rural,Wholesaler,1208,41,87,Ltd,104,417593.28,6,20.74
+af68b1a1-bf09-49fc-9385-7707d99bc8f5,"Smith, Harris and Johnson",North Michaelstad,Maryland,Rural,Kirana,1776,24,200,Inc,7118,49004.19,9,49.74
+b80cd7f2-fe45-451e-a9c2-c73a010f0cda,"Santos, Christensen and Hoffman",Lake George,Nevada,Urban,Wholesaler,936,21,285,Group,6715,193598.81,5,26.41
+5058debe-f2de-4168-8824-a57f584cb31c,Garcia-Lee,Lake Robynstad,Massachusetts,Semi-Urban,Kirana,1102,3,274,Ltd,7382,21989.5,2,7.62
+6870a7f0-b6fb-4ae7-9945-c5fe6424056b,"Brown, Diaz and Taylor",West Chadhaven,Louisiana,Urban,Convenience Store,675,22,483,Group,1860,448260.52,7,41.42
+b8cf4ef1-7e38-4892-9171-7acda38455ca,"Morrison, Solis and Lambert",Lake Robert,Delaware,Urban,Wholesaler,398,34,68,LLC,1188,401813.99,10,22.44
+19e0eb16-431f-428a-8052-12af4e798e90,Terrell-Owens,Thomasburgh,North Carolina,Urban,Supermarket,1113,17,118,Group,9548,467933.23,7,47.27
+82024e9e-f2bf-4356-9e0d-f11752f5950e,Hill LLC,East Anna,New Jersey,Rural,Kirana,476,43,436,Group,3348,193566.37,6,38.65
+0315c4b1-7c5f-4d5b-8534-3f37391a0803,Bell Ltd,Paulburgh,Oklahoma,Semi-Urban,Kirana,632,40,197,LLC,7351,224404.2,1,34.83
+bc0b261b-7079-4831-bb63-358692e3687d,Romero-Barber,West Garychester,Mississippi,Semi-Urban,Supermarket,1503,40,90,and Sons,3553,438079.04,3,3.83
+e090d92d-0349-40e3-9bca-9d971d7d5ca2,Clark-Daniels,Port Katelynfort,Arizona,Urban,Supermarket,1832,31,243,and Sons,1225,469049.82,6,1.81
+394f38f5-fc99-4776-b705-bed15ec5fa4a,Smith Inc,Kendraside,Colorado,Rural,Kirana,158,10,147,Group,9103,157712.91,8,42.2
+06be873c-79b8-4c42-9d87-14b92a0ab495,Morton Inc,Gibsonborough,Oklahoma,Rural,Kirana,1321,4,485,and Sons,9570,43951.65,4,47.56
+532f2758-fa48-4f3a-80c2-00a1c2258eca,Taylor Group,Williamland,Tennessee,Urban,Supermarket,1715,18,122,and Sons,8783,432975.26,6,45.71
+bbf54811-c273-4c40-9e42-7693f1181a6c,Edwards PLC,East Patrickfort,Massachusetts,Urban,Convenience Store,1178,20,389,and Sons,6973,14827.19,4,40.38
+370b0cdd-00d5-4488-87d3-2698f7d1f2d7,Singleton Inc,Jacquelineberg,Indiana,Semi-Urban,Kirana,706,49,132,Group,3564,315392.21,3,35.76
+0dcd6535-18b2-4a00-9d20-04bfa6828c63,"Becker, Olsen and Diaz",New Andrewburgh,Nevada,Semi-Urban,Wholesaler,947,48,129,Inc,253,53520.35,8,32.82
+129b58d6-d07e-4d9c-a5af-2ed35ab6f8a3,"Watts, Gomez and Meyers",Reyesport,Massachusetts,Urban,Wholesaler,1792,43,498,PLC,1886,59020.31,3,31.45
+9cf2015b-596f-4dfb-82d2-0d85579e8c8f,Anderson-Castro,Taylortown,Utah,Urban,Convenience Store,467,44,87,Inc,6064,305070.44,7,9.36
+8fae603a-57e5-4237-ade9-c5ae4b440b23,Bender-Martin,New Jonathanmouth,Virginia,Urban,Convenience Store,1411,18,214,LLC,9000,439702.09,5,6.71
+c91a23fa-b1a0-48f4-8a83-12d1fac2f96e,Griffith PLC,Port Cherylville,Louisiana,Rural,Convenience Store,1740,42,300,Ltd,516,391621.89,7,9.24
+93afff6f-8872-44c5-9393-3cf216bc129c,Velez-Anderson,East Linda,New Hampshire,Semi-Urban,Supermarket,1231,35,187,Ltd,2142,444994.93,6,5.52
+2038e3c4-aebb-4c27-99d9-f4142edca9a1,Mason-Garza,Robertstad,Nebraska,Urban,Kirana,837,31,96,Ltd,9164,17313.34,1,45.19
+ef53a0df-ee72-4a85-91ac-21246208c1dc,Jones Ltd,North Andreamouth,Connecticut,Semi-Urban,Convenience Store,1348,42,96,LLC,7866,448988.25,2,44.21
+3e6d287f-4430-4830-866a-538f4dc13796,Johnson Ltd,New Christopherton,Mississippi,Urban,Convenience Store,1499,48,473,Ltd,4533,166470.81,6,3.57
+8208ef0e-8de8-4c3c-bf6d-908c0cf93b2b,Thomas Inc,Richardsstad,Kentucky,Semi-Urban,Kirana,742,25,287,Ltd,8145,45932.93,3,1.26
+18492392-e5ef-4640-8c73-e5c51902bf9f,"Parsons, Davis and Jensen",New Julie,New Mexico,Semi-Urban,Convenience Store,1421,41,329,Group,4856,421832.13,6,48.49
+32df46d4-2b48-4ea7-ada0-8dae3f20fdd7,Ford and Sons,South Melody,Wisconsin,Urban,Supermarket,1711,5,417,Group,3794,140458.5,10,40.32
+d7efdc68-d1ea-4a24-b276-5a9b27a7fbda,"Lee, Brown and Lynch",Greenshire,Louisiana,Semi-Urban,Kirana,1039,10,344,LLC,3751,282211.43,9,33.35
+10475f46-ae0e-4d3c-b714-49272610ea26,Frazier Ltd,Nicholasberg,South Dakota,Urban,Convenience Store,500,7,497,Ltd,7744,480653.86,6,8.24
+fff0c593-fd4c-4071-91e5-2f1afb52429b,Hall-Garcia,Petersberg,Alaska,Rural,Wholesaler,1669,46,448,and Sons,9488,250067.48,9,49.76
+7e0687a0-8677-48fd-b7ac-7f782da0ebfb,Henry-Michael,North Kellyfurt,Virginia,Rural,Supermarket,1823,39,216,Group,9993,104429.02,1,18.88
+b67fcb9d-e895-44fe-b362-d2d2f0b49081,Miller LLC,West Shannonland,Ohio,Rural,Wholesaler,655,3,179,Inc,8188,12725.76,5,32.69
+f8f7c953-a6fa-40c1-94fe-208c0dc27928,Patterson-Prince,Marshallmouth,Idaho,Semi-Urban,Supermarket,657,7,345,PLC,5054,353622.02,3,5.47
+172f9abd-44df-4ee7-8299-8e8be642595e,Garcia Inc,Lake Anne,Iowa,Urban,Supermarket,909,34,96,Inc,8540,439714.37,4,27.57
+81261903-5be0-45af-a6dc-75d9e59edb9c,Alvarado-Booth,North Laurafort,Connecticut,Urban,Kirana,1578,5,127,and Sons,7653,273469.61,10,4.57
+f4858499-c49e-49a8-8896-a1046b019044,"Smith, Gardner and Porter",Mariahshire,Ohio,Rural,Supermarket,1288,50,304,Ltd,5056,75243.6,10,4.22
+bffee7b5-2e8c-44f3-a5e8-86d5910be540,Terrell Ltd,Dukechester,North Carolina,Rural,Wholesaler,1458,50,54,Group,8927,338456.67,5,49.74
+b06a08bb-120c-42fa-8788-f6ad16898313,Estrada Inc,Adamport,Alaska,Rural,Convenience Store,1173,33,409,PLC,2254,298349.04,1,35.69
+26bf2163-4b75-4905-bdcc-07408823b3c4,"Foster, Graham and Cunningham",Carrieville,Idaho,Rural,Convenience Store,1679,47,389,Ltd,4764,159298.27,3,24.17
+eb42f1bc-beb2-4920-8b1d-0d0feb156a4b,Bender Inc,Lake Hannah,Kentucky,Urban,Convenience Store,1313,5,180,Inc,7598,49124.52,9,20.07
+49ecfaff-34a3-44b0-8c30-03ff7f3beefe,Vasquez-Schmidt,New Elizabeth,California,Urban,Convenience Store,1985,11,237,and Sons,5461,161551.61,8,14.62
+9d58475c-efa3-4030-b621-93453430941b,Lyons LLC,Kristenbury,Washington,Urban,Convenience Store,1419,44,322,Ltd,3570,411541.12,2,42.68
+8e221a03-056b-4bf9-8419-15f3da93dde8,"Hensley, Henry and Johnson",New Jeffreytown,Wyoming,Rural,Kirana,645,13,80,Ltd,5519,14716.97,8,14.48
+0621cfa2-e618-4afb-86c7-b3ea1386ab48,Levy-Spears,East Vincentborough,Montana,Semi-Urban,Supermarket,522,25,411,Group,2375,336197.12,2,46.25
+b897b9ce-b172-48c4-904c-e301167910e1,Benitez-Coleman,Lake Elizabeth,Idaho,Urban,Wholesaler,154,26,225,Group,7054,315348.85,3,2.04
+b750c335-9a1f-414c-b800-5db4fe58f6a8,"Hill, Harrison and Hall",New Ryanberg,Louisiana,Semi-Urban,Kirana,1113,36,155,PLC,1165,296845.16,4,34.05
+8cc18dcf-b1f1-4df3-94ea-561e2e46238b,Martinez-Palmer,Kingfort,Idaho,Semi-Urban,Supermarket,1735,10,155,Ltd,7775,385100.2,9,38.48
+1158a505-1be1-4bb9-8c34-fe53c645b6f1,Herrera-Turner,Cunninghamview,Pennsylvania,Semi-Urban,Convenience Store,1749,40,299,Group,273,434492.3,1,48.0
+99f893d3-9c95-47a4-a823-6ab86983b081,"Olsen, Scott and Palmer",New Louis,Georgia,Rural,Kirana,376,19,381,Inc,5980,394088.95,4,24.65
+1867dd2f-2fc4-4d00-8332-61a9776c3767,Chaney-Medina,West Christophertown,Indiana,Rural,Convenience Store,824,13,324,Group,4627,324493.1,8,2.34
+d10048ed-5914-4ada-ba55-bd9c2a140685,Walters Group,West Joyce,New York,Rural,Kirana,186,46,363,and Sons,2701,18369.71,10,32.11
+d4044c80-8c20-40f0-88cf-3c0a957fae07,Brown LLC,Port Juanhaven,California,Urban,Supermarket,411,3,458,LLC,9027,373470.94,4,29.63
+ff8f4999-7fe5-42a0-8ce1-17778c034b80,Meyer PLC,Sheltonland,Nebraska,Rural,Kirana,220,20,140,PLC,8318,397478.99,6,44.3
+5db26f26-fc1c-4421-9a5a-0104ca5f0cd8,Henry-Murphy,South Jennifer,Oklahoma,Rural,Supermarket,1300,43,115,LLC,6822,347286.76,3,48.7
+b5a31467-9e7a-4bb9-a8ed-59d12e43cc69,Hardy-Richardson,South Vanessa,Utah,Rural,Convenience Store,1020,21,463,and Sons,3420,257080.1,9,19.27
+4a73f9c5-0db6-4a43-9088-83ba4e6194f0,Dunn and Sons,Washingtonberg,Missouri,Urban,Supermarket,1106,44,370,PLC,7896,286483.93,4,36.76
+24f01dad-4000-43ae-b60b-e518be8df234,"Young, Miller and Williams",Lake Cathy,Oklahoma,Urban,Supermarket,613,13,245,and Sons,7500,304982.95,2,45.05
